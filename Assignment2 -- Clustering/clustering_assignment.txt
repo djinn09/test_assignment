@@ -1,0 +1,10 @@
+Problem: The attached file contains product data such as price, product and seller ratings. You need cluster the product data and build model and classify the test data and assign them cluster numbers.
+
+
+1)Cluster the product data.
+
+2)Do a 3D plot, add proper legends.
+
+3)On hovering the datapoint show details of that product.
+
+4)Classify the test data.
